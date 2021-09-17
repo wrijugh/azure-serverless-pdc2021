@@ -1,7 +1,7 @@
 # Azure Serverless PDC2021
 
 ## Resources
-
+https://github.com/wrijugh/azure-serverless-pdc2021
 ### Learn 
 https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/
 
